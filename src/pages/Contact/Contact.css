@@ -1,0 +1,62 @@
+.form-holder{
+    min-height: 89vh;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 200px;
+    align-items: center;
+    margin: auto;
+}
+
+.form-holder h1{
+color: #282828;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin: 15px;
+}
+
+.form-holder input{
+    box-sizing: border-box;
+    width: 350px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 6px;
+    background-color: #B4B4B4;
+    color: #FFFFFF;
+}
+
+#message {
+    padding-bottom: 90px;
+}
+
+::placeholder {
+color: white;
+color: #FFF;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.submit-btn {
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+width: 120px;
+padding: 10px;
+background-color: #5264C3;
+cursor: pointer;
+
+;
+
+}
+

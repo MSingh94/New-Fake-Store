@@ -1,0 +1,79 @@
+.items-container{
+    min-height: 100vh;
+    padding: 30px 10px;
+}
+
+.title {
+display: flex;
+justify-content: center;
+flex-direction: row;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+}
+
+.title-empty {
+    font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+text-align: center;
+margin-top: 6%;
+}
+
+.total {
+    display: flex;
+justify-content: center;
+flex-direction: row;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+color: black;
+margin-top: 10%;
+cursor: auto;
+}
+
+.items{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+
+ }
+
+ .checkout-btn {
+    margin-left: 45%;
+ }
+
+
+ #modal {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+ }
+
+ #modal h3 {
+    color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+ }
+
+ #modal button {
+    width: 150px;
+    height: 43px;
+    background-color: #5264C3;
+    color: white;
+    text-align: center;
+font-family: Inter;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+cursor: pointer;
+}

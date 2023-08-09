@@ -1,0 +1,18 @@
+.category-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.category-btn{
+color: #5264C3;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 20px;
+cursor: pointer;
+border: none;
+}

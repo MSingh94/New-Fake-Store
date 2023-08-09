@@ -1,0 +1,36 @@
+.footer-container {
+    width: 100%;
+    height: 66px;
+    background-color: #3A4895;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.footer-text {
+background-color: #3A4895;
+color: white;
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: 15px;
+}
+
+.contact-btn {
+    cursor: pointer;
+    color: #FCFCFC;
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+background-color: #3A4895;
+border: none;
+margin: 15px;
+margin-right: 20px;
+}
