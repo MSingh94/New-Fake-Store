@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react'
 import './Homepage.css'
 import axios from 'axios'
 import ProductCard from '../../Components/ProductCard/ProductCard';
-import Category from '../../Components/category/Category';
+import Category from '../../Components/Category/Category';
 
 function Homepage() {
 

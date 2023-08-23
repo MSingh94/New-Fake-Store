@@ -4,7 +4,6 @@ import { CartContext } from '../../contexts/CartContext'
 import ProductCard from '../../Components/ProductCard/ProductCard'
 import Modal from 'react-modal'
 import { useNavigate } from 'react-router-dom';
-import Homepage from '../homepage/Homepage';
 
 const customStyles = {
   content: {
