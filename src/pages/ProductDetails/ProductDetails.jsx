@@ -40,9 +40,9 @@ function ProductDetails() {
 
     },[inCart]
   )
+
   return (
-    <div className='container'>
-      <div className="item-container">
+      <div className='item-container'>
         <div className='img-container'><img className='item-img'src={product.image} />
         </div>
         
@@ -63,8 +63,6 @@ function ProductDetails() {
         </div>
         
         </div>
-     
-    </div>
   )
 }
 
