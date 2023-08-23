@@ -4,11 +4,11 @@ import './App.css'
 
 
 import Homepage from './pages/homepage/Homepage'
-import ProductDetails from './pages/product-details/ProductDetails'
+import ProductDetails from './pages/ProductDetails/ProductDetails'
 import Contact from './pages/Contact/Contact'
 import ShoppingCart from './pages/ShoppingCart/ShoppingCart'
 import CartContextProvider from './contexts/CartContext'
-import Header from './Components/header/header'
+import Header from './Components/Header/Header'
 import Footer from './Components/Footer/Footer'
 
 function App() {
